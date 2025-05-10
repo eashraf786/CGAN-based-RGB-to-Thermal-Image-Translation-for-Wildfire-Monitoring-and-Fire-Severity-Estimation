@@ -6,7 +6,7 @@ import os
 
 from ..data.dataset import create_dataset, prepare_datasets
 from ..data.labels import process_labels, get_stratified_sample
-from ..utils.losses import generator_loss, discriminator_loss
+from .losses import generator_loss, discriminator_loss
 from .generator import Generator
 from .discriminator import Discriminator
 
