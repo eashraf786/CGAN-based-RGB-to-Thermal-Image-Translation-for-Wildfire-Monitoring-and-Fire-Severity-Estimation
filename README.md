@@ -1,0 +1,1 @@
+# CGAN-based-RGB-to-Thermal-Image-Translation-for-Wildfire-Monitoring-and-Fire-Severity-Estimation
